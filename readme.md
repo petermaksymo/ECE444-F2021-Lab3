@@ -13,6 +13,20 @@
 
 ![screenshot of docker build](./images/Activity3.png)
 
+## Activity 4
+![screenshot of education pathways running](./images/Activity4.png)
+
+## Activity 5
+
+### Functional Requirement - Course Rating System
+As an end user, I would like to rate courses and see course ratings, so that I can make a more informed decision when choosing perspective courses. A simple course rating system would allow students to express their opinions about courses they took as well as see what other students through about courses at a glance. It would also be useful for the University to gauge the quality of the courses.
+
+This could be implemented with a simple 5 star system where users could enter a rating. They could then see the average rating for each course based off of how many out of 5 stars are filled out.
+
+### Non-Functional Requirement - Usability
+
+The usability of the current site is poor. The site is not responsive meaning that there is no mobile-optimized design. Also the overal design of the site is very drab and detracts from the content. For instance, there is very little space between columns in the search results making it hard to differentiate the data and determine which column it is a part of. It is because of reasons like this that I think improving the usability of the site is paramount. 
+
 # CARTE Education Pathways
 
 ## Description
