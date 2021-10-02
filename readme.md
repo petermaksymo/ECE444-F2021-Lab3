@@ -8,7 +8,10 @@
 ## Activity 2
 ![screenshot of cloned repo](./images/Activity2.png)
 
+## Activity 3
+*note, only the last few steps are screenshotted as the whole command created a lot of output logs related to downloading dependencies
 
+![screenshot of docker build](./images/Activity3.png)
 
 # CARTE Education Pathways
 
